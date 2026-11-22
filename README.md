@@ -5,4 +5,3 @@
 3. Carregue em **Ctrl + S** (ou **Cmd + S** no Mac) para guardar o ficheiro no computador.
 4. Dê dois cliques no ficheiro guardado para o abrir no navegador de internet.
 
-*(Se o projeto tiver um link do **GitHub Pages**, basta clicar no link disponibilizado para abrir direto no navegador.)*
